@@ -1,0 +1,2 @@
+# The program needs no packages besides Python itself.
+# If you add one later, list it here with its version, for example:  requests==2.32.3
